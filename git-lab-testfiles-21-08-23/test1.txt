@@ -1,0 +1,4 @@
+echo "Hi Hello How are you?"
+echo "This is my first Git file"
+pwd
+ls -lrt
